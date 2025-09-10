@@ -1,4 +1,4 @@
-# Audio Converter
+# Audio Converter (Windows Only, for now)
 
 A simple desktop application built with Python and Tkinter to convert audio and video files into various audio formats. It supports both single-file and batch conversions using the power of FFmpeg.
 
