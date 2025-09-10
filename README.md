@@ -15,7 +15,7 @@ A simple desktop application built with Python and Tkinter to convert audio and 
 
 ## Getting Started (for Users)
 
-1.  **Download the latest release** from the [Releases Page here](https://github.com/USERNAME/REPOSITORY_NAME/releases).
+1.  **Download the latest release** from the [Releases Page here](https://github.com/andrr64/audio-converter-with-ffmpeg/releases).
 2.  **Choose your version**:
     * **`audio-converter-with-ffmpeg` (Recommended)**: This version is portable and includes everything you need to run the application.
     * **`audio-converter-only`**: Use this only if you are an advanced user and have already installed FFmpeg on your system.
